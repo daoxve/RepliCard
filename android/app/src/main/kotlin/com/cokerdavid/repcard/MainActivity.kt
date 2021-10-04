@@ -1,4 +1,4 @@
-package com.example.repcard
+package com.cokerdavid.repcard
 
 import io.flutter.embedding.android.FlutterActivity
 

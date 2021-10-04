@@ -14,11 +14,11 @@ class MyApp extends StatelessWidget {
         body: SafeArea(
           child: Column(
             children: [
-              CircleAvatar(
+              const CircleAvatar(
                 radius: 50,
                 backgroundImage: AssetImage('images/davidc.jpg'),
               ),
-              Text(
+              const Text(
                 'David Coker',
                 style: TextStyle(
                   fontFamily: 'Pacifico',
