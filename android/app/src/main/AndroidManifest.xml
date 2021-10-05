@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.cokerdavid.repcard">
+    package="com.cokerdavid.replicard">
    <application
-        android:label="Repcard"
+        android:label="Replicard"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

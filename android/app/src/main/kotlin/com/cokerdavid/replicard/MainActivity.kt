@@ -1,4 +1,4 @@
-package com.cokerdavid.repcard
+package com.cokerdavid.replicard
 
 import io.flutter.embedding.android.FlutterActivity
 
